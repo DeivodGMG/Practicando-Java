@@ -1,10 +1,8 @@
-/*Utilizare este proyecto para practicar el lenguaje llava
- *Tratare de incluir lo mas importado. 
+/*Utiliza este proyecto para practicar el lenguaje java.
+ *Puedes utilizarlo ya sea para un examen, ganar practica o
+ *simplemente para volverte un pro. 
  */
-
-
 import java.util.Scanner;
-
 public class Main{
     public static void main(String[] args) {
         //Crear scanner
